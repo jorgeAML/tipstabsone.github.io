@@ -1,4 +1,4 @@
-# the Jorge AMl tips tab
+# the Jorge AML tips tab
 this project is about to open new tabs and learn something new or study using flash cards, but with the syntax of JavaScript, you can modify everything that you can need to improve your studies or just make a little change in your way of learning something cool!
 
 I found inspirations from the extension of Codeacademy, you can download and installed from here: [Codecademy extension](https://chrome.google.com/webstore/detail/codecademy-javascript-tip/jjgmamfgfagkcjcgjcaokkmnnfijpcdi)
