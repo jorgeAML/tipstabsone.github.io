@@ -4,3 +4,5 @@ this project is about to open new tabs and learn something new or study using fl
 I found inspirations from the extension of Codeacademy, you can download and installed from here: [Codecademy extension](https://chrome.google.com/webstore/detail/codecademy-javascript-tip/jjgmamfgfagkcjcgjcaokkmnnfijpcdi)
 
 Make some variations or making a new one like mine using some intermediate skills of CSS and very simple of HTML but I have to say, you need have to know an intermediate level of JavaScript to finish your extension of tips tab.
+
+In a few days, I am gonna upload the extension such that you can download and install in your browser, and maybe find some inspirations to make your own! and become a developer like me LOL.
